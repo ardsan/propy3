@@ -1,6 +1,6 @@
 # Protect Py3
 Masih ada yang error sih, <br> Linepy by <b>[line-py](https://github.com/fadhiilrachman/line-py)</b> Thanks to Team Ghost and Koplaxs Bot <br> Remake by Alevan 
-<br>Kalau ada eror, kasih tau yak, add line me Alevan(line.me/ti/p/~shandiap)
+<br>Kalau ada eror, kasih tau yak, add line me Alevan id line: <b>shandiap</b>
 # Cara install
 
 1. pkg install python3<br>
