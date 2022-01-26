@@ -19,5 +19,5 @@ Masih ada yang error sih, <br> Linepy by <b>[line-py](https://github.com/fadhiil
 # Notes
 Silahkan ubah User-agen di <b>linepy/config.py</b> <b>(</b>default UA : DESKTOPMAC	8.3.2	HELLO-WORLD	12.1.1<b>)</b><br>
 ## Author
-Alevan / [@ardsan](https://github.com/ardsan/propy3) <br> Follow my ig @<b>ken.ar_</b>
+Alevan / [@ardsan](https://github.com/ardsan/propy3) <br></b>
 
